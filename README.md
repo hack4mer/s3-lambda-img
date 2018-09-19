@@ -1,7 +1,7 @@
 
 # S3 Lambda Image Optimizer
 
-A Lambda funtion to resize, optimize and save S3 images in realtime
+A Lambda function to resize, optimize and save S3 images in real-time
 
 ### What it does
 * Takes image's S3 path form URI
